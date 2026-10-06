@@ -1,4 +1,4 @@
-# mqtt_final_v4
+# mqtt_weather_monitor_simulation
 
 Custom MQTT 5.0 training implementation in C using POSIX IPv4 TCP sockets. No MQTT library is used.
 
